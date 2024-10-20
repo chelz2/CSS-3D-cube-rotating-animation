@@ -1,5 +1,10 @@
 body {
   font-family: sans-serif;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 }
 
 .container {
